@@ -1,4 +1,4 @@
-# VLSI-FI-Filter-Design
+# VLSI-FIR-Filter-Design
 Project Report: VLSI Design of FIR Filter
 
 Author: Siddhi Dhalpe
